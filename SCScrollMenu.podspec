@@ -90,9 +90,7 @@ s.source       = { :git => "https://github.com/MonkeyS914/SCScrollMenu.git", :ta
 #  Not including the public_header_files will make all headers public.
 #
 
-s.source_files = 'SCScrollMenu/*.{h,m}'
-
-#s.source_files  = "SCScrollMenu/**/*.{h,m}"
+s.source_files  = "SCScrollMenu/**/*.{h,m}"
 #s.exclude_files = "SCScrollMenu/Exclude"
 
 # s.public_header_files = "Classes/**/*.h"
