@@ -117,7 +117,7 @@ s.exclude_files = "SCScrollMenu/Exclude"
 #
 
 # s.framework  = "SomeFramework"
-#s.frameworks = "UIKit", "CoreGraphics","Foundation"
+s.frameworks = "Foundation"
 
 # s.library   = "iconv"
 # s.libraries = "iconv", "xml2"
